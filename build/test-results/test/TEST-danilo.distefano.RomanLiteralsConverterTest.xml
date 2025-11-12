@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="danilo.distefano.RomanLiteralsConverterTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-10-20T17:22:33.618Z" hostname="DESKTOP-PK5FSPP" time="0.51">
+  <properties/>
+  <testcase name="[1] VV" classname="danilo.distefano.RomanLiteralsConverterTest" time="0.27"/>
+  <testcase name="[2] LL" classname="danilo.distefano.RomanLiteralsConverterTest" time="0.022"/>
+  <testcase name="[3] DD" classname="danilo.distefano.RomanLiteralsConverterTest" time="0.028"/>
+  <testcase name="[4] VVI" classname="danilo.distefano.RomanLiteralsConverterTest" time="0.019"/>
+  <testcase name="[5] LLI" classname="danilo.distefano.RomanLiteralsConverterTest" time="0.04"/>
+  <system-out><![CDATA[Not a valid literal
+Not a valid literal
+Not a valid literal
+Not a valid literal
+Not a valid literal
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
